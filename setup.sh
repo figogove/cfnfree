@@ -20,7 +20,7 @@ CYAN='\033[0;36m'
 LIGHT='\033[0;37m'
 # ==========================================
 # Link Hosting Kalian Untuk Ssh Vpn
-akbarvpn="raw.githubusercontent.com/lizsvr/cfnfree/main/ssh"
+akbarvpn="raw.githubusercontent.com/figogove/cfnfree/main/ssh"
 # Link Hosting Kalian Untuk Sstp
 akbarvpnn="raw.githubusercontent.com/lizsvr/cfnfree/main/sstp"
 # Link Hosting Kalian Untuk Ssr
