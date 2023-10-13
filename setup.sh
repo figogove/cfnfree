@@ -30,7 +30,7 @@ akbarvpnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/shadowsocks"
 # Link Hosting Kalian Untuk Wireguard
 akbarvpnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/wireguard"
 # Link Hosting Kalian Untuk Xray
-akbarvpnnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/xray"
+akbarvpnnnnnn="raw.githubusercontent.com/figogove/cfnfree/main/xray"
 # Link Hosting Kalian Untuk Ipsec
 akbarvpnnnnnnn="raw.githubusercontent.com/lizsvr/cfnfree/main/ipsec"
 # Link Hosting Kalian Untuk Backup
